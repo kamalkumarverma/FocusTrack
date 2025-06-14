@@ -15,7 +15,7 @@ import {
 } from "lucide-react";
 import { toast } from "react-toastify";
 
-const API_BASE = "http://localhost:4000/api/tasks";
+const API_BASE = "https://focustrack-backend.onrender.com/api/tasks";
 
 const TaskModal = ({ isOpen, onClose, taskToEdit, onSave, onLogout }) => {
   const [taskData, setTaskData] = useState(DEFAULT_TASK);
