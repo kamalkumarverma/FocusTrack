@@ -16,7 +16,7 @@ const Login = ({ onSubmit, onSwitchMode }) => {
 
   const navigate = useNavigate();
 
-  const url = "http://localhost:4000";
+  const url = "https://focustrack-backend.onrender.com";
 
   useEffect(()=>{
     const token = localStorage.getItem("token")
