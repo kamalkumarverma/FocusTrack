@@ -13,7 +13,7 @@ import {
 } from "../assets/dummy"; // Adjust the path as needed
 import axios from "axios";
 
-const API_URl = "http://localhost:4000";
+const API_URl = "https://focustrack-backend.onrender.com";
 export const Profile = ({ setCurrentUser, onLogout }) => {
   const navigate = useNavigate();
 
