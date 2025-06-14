@@ -2,6 +2,15 @@
 
 Focus Track is a powerful and intuitive Task Manager Application built using the **MERN stack** (MongoDB, Express.js, React.js, Node.js). It features a sleek, modern UI powered by **Lucide React** icons, designed to help users efficiently manage their tasks, priorities, and deadlines.
 
+
+## 🚀 Live Demo
+
+Check out the live version of the FocusTrack Task Manager here:  
+🔗 [FocusTrack Live Demo](https://focustrack-dy45.onrender.com/)
+
+> Deployed on Render | Best viewed on desktop for full functionality
+
+
 ---
 
 ## 🚀 Features
