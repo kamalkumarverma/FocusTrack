@@ -14,7 +14,7 @@ import { useNavigate } from "react-router-dom";
 
 
 
-const API_BASE = "http://localhost:4000/api/tasks";
+const API_BASE = "https://focustrack-backend.onrender.com/api/tasks";
 const TaskItem = ({
   task,
   onRefresh,
